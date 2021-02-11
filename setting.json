@@ -1,0 +1,53 @@
+{
+  "prettier.tabWidth": 2,
+  "tabnine.experimentalAutoImports": true,
+  "todo-tree.tree.showScanModeButton": false,
+  "terminal.integrated.shell.osx": "/bin/bash",
+　"workbench.iconTheme": "material-icon-theme",
+　"cSpell.userWords": [
+　　　"Dtos",
+　　　"Mylayer",
+　　　"boto",
+　　　"fuga",
+　　　"hoge",
+　　　"sqlite",
+　　　"tsyringe",
+　　　"uuidv"
+  ],
+  "git.autofetch": true,
+  "editor.fontLigatures": null,
+  "files.autoSave": "afterDelay",
+  "go.useLanguageServer": true,
+  "go.alternateTools": {
+    "go-langserver": "gopls"
+  },
+  "go.languageServerExperimentalFeatures": {
+    "format": true,
+    "autoComplete": true,
+    "rename": true,
+    "goToDefinition": true,
+    "hover": true,
+    "signatureHelp": true,
+    "goToTypeDefinition": true,
+    "goToImplementation": true,
+    "documentSymbols": true,
+    "workspaceSymbols": true,
+    "findReferences": true,
+    "diagnostics": true
+  },
+  "[go]": {
+    "editor.tabSize": 2,
+    "editor.snippetSuggestions": "none",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    }
+  },
+  "gopls": {
+    "usePlaceholders": false,
+    "enhancedHover": false
+  },
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "window.zoomLevel": 1
+}
