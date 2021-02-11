@@ -3,16 +3,16 @@
   "tabnine.experimentalAutoImports": true,
   "todo-tree.tree.showScanModeButton": false,
   "terminal.integrated.shell.osx": "/bin/bash",
-　"workbench.iconTheme": "material-icon-theme",
-　"cSpell.userWords": [
-　　　"Dtos",
-　　　"Mylayer",
-　　　"boto",
-　　　"fuga",
-　　　"hoge",
-　　　"sqlite",
-　　　"tsyringe",
-　　　"uuidv"
+  "workbench.iconTheme": "material-icon-theme",
+  "cSpell.userWords": [
+    "Dtos",
+    "Mylayer",
+    "boto",
+    "fuga",
+    "hoge",
+    "sqlite",
+    "tsyringe",
+    "uuidv"
   ],
   "git.autofetch": true,
   "editor.fontLigatures": null,
